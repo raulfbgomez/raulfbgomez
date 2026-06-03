@@ -32,6 +32,6 @@ I am a **Senior Software Engineer & Infrastructure Lead** based in Mexico City. 
 
 ### 📫 Connect with Me
 
-*   💼 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/raul-bautista-gomez/)
+*   💼 **LinkedIn:** [linkedin.com/in/raul-bautista-gomez](https://www.linkedin.com/in/raul-bautista-gomez/)
 
 [![Twitter: RaulG](https://img.shields.io/twitter/follow/raulfbgomez?style=social)](https://twitter.com/raulfbgomez)
