@@ -1,6 +1,6 @@
 # Hi there, I'm Raúl! 👋
 
-I am a **Senior Software Engineer & Infrastructure Lead** based in Mexico City. With over a decade of experience in the tech ecosystem, I specialize in building robust full-stack applications, architecting secure infrastructure, and leading technical teams to deliver high-scale, mission-critical systems.
+I am a **Software Engineer & Infrastructure Lead** based in Mexico City. With over a decade of experience in the tech ecosystem, I specialize in building robust full-stack applications, architecting secure infrastructure, and leading technical teams to deliver high-scale, mission-critical systems.
 
 - 🚀 Currently focusing on transitioning my expertise into high-impact private tech companies and product startups.
 - 🛠️ Deeply passionate about backend architecture, containerization, and digital identity systems.
